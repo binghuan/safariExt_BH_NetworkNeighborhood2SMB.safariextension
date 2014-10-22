@@ -7,9 +7,9 @@
 	<key>Builder Version</key>
 	<string>10600.1.25</string>
 	<key>CFBundleDisplayName</key>
-	<string>network_neighborhood_2_smb</string>
+	<string>Network Neighborhood Linker</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.yourcompany.networkneighborhood2smb</string>
+	<string>com.bh.safari.networkneighborhood2smb</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -28,6 +28,8 @@
 		<key>Scripts</key>
 		<dict/>
 	</dict>
+	<key>Description</key>
+	<string>An easy way to open the link of network neighborhood on address bar via SMB.</string>
 	<key>DeveloperIdentifier</key>
 	<string>VH8FYD6YYB</string>
 	<key>ExtensionInfoDictionaryVersion</key>
